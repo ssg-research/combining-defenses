@@ -1,6 +1,6 @@
 # Combining Machine Learning Defenses without Conflicts
 
-Code for the paper titled "Combining Machine Learning Defenses without Conflicts" which was published in TMLR 2025.
+Code for the paper titled "Combining Machine Learning Defenses without Conflicts" published in TMLR 2025.
 
 ## Requirements
 
