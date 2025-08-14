@@ -1,0 +1,23 @@
+name: defense-conflicts
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - pip
+  - pytorch
+  - scipy
+  - torchvision
+  - tqdm
+  - pip:
+    - wget
+    - opacus
+    - captum
+    - numpy
+    - pandas
+    - cleverhans
+    - scikit-learn
+    - adversarial-robustness-toolbox
+    - git+https://github.com/fra31/auto-attack
